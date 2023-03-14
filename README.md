@@ -1,13 +1,13 @@
-# march13_assessment
-## Name:ANITHA.P
-## Register Number:212221240004
+# march13_assessment_JAVA
+## Name: ANITHA.P
+## Register Number: 212221240004
 ### 1.print the square pattern.
 ```java
 import java.util.Scanner;
 public class square_pattern {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the Number");
+        System.out.print("Enter the Number:");
         int a=sc.nextInt();
         for(int i=1;i<=a;i++)
         {
@@ -25,7 +25,7 @@ public class square_pattern {
 
 ![ss1](https://user-images.githubusercontent.com/94184990/224886405-18ebf700-6b54-41c9-a408-d596e683a039.png)
 
-### 2.print the Iverted Pyramid pattern.
+### 2.print the Inverted Pyramid pattern.
 ```java
 import java.util.Scanner;
 public class bottom_diamond_pattern {
