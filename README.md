@@ -22,7 +22,9 @@ public class square_pattern {
 }
 ```
 ##output:
-![output](./ss1.png)
+
+![ss1](https://user-images.githubusercontent.com/94184990/224886405-18ebf700-6b54-41c9-a408-d596e683a039.png)
+
 ### 2.print the Iverted Pyramid pattern.
 ```java
 import java.util.Scanner;
@@ -49,6 +51,10 @@ public class bottom_diamond_pattern {
 }
 
 ```
+## output:
+
+![ss2](https://user-images.githubusercontent.com/94184990/224886463-3556a4cc-2b6b-4118-96ee-8bc9beed8d29.png)
+
 ### 3. print the right side pattern of Diamond.
 ```java
 import java.util.Scanner;
@@ -77,3 +83,7 @@ public class rightside_pattern_of_diamond {
 }
 
 ```
+## output:
+![ss3](https://user-images.githubusercontent.com/94184990/224886538-1866f70d-2e7e-4474-a380-f4fd00d766ca.png)
+
+
