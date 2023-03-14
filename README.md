@@ -21,7 +21,7 @@ public class square_pattern {
 
 }
 ```
-##output:
+## output:
 
 ![ss1](https://user-images.githubusercontent.com/94184990/224886405-18ebf700-6b54-41c9-a408-d596e683a039.png)
 
