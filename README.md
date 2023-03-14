@@ -21,7 +21,9 @@ public class square_pattern {
 
 }
 ```
-### 2.print the bottom diamond pattern
+##output:
+![output](./ss1.png)
+### 2.print the Iverted Pyramid pattern.
 ```java
 import java.util.Scanner;
 public class bottom_diamond_pattern {
